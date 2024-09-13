@@ -1,12 +1,11 @@
-- **Languages**: JavaScript, Python, Java, [Other Languages]
-- **Frameworks**: React, Django, Spring Boot, [Other Frameworks]
-- **Tools**: Git, Docker, Kubernetes, [Other Tools]
+- **Languages**: C, html, css
+- **Tools**: Git, vscode, clion, webstorm
 
-## 🌱 Current Learning
+## Currently Learning
 
-- c
-- html / css . js
+- C
+- html / css
 
-## 📈 GitHub Stats
+## My favourite project
+- My rpg game [RPG](https://github.com/obamamen/CLI_RPG)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=obamamen&show_icons=true&hide_title=true&count_private=true&hide=prs)

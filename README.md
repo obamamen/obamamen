@@ -7,5 +7,5 @@
 - html / css
 
 ## My favourite project
-- My rpg game [RPG](https://github.com/obamamen/CLI_RPG)
+- My rpg [game](https://github.com/obamamen/CLI_RPG)
 

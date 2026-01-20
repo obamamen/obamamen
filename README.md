@@ -27,11 +27,11 @@ My public repos mostly consists of smaller learning projects, don't expect real 
 
 ### c
 
--- [mcli](https://github.com/obamamen/mcli) terminal utility abstraction.
+-- [mcli](https://github.com/obamamen/mcli) -> STB style terminal utility abstraction.
 
--- [mnet](https://github.com/obamamen/mnet) networking abstraction.
+-- [mnet](https://github.com/obamamen/mnet) -> STB stylenetworking abstraction.
 
--- [marray](https://github.com/obamamen/marray) 
+-- [marray](https://github.com/obamamen/marray) -> STB style dynamic array.
 
 -- [Maze Generator](https://github.com/obamamen/MAZEGENERATORC) -> Genertes png's of solveble maze's, is kinda fast so can be used to make large ones.
 
